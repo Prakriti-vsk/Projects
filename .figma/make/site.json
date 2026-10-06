@@ -1,0 +1,11 @@
+{
+  "title": "Basketly",
+  "description": "Effortlessly create and manage shopping lists with this web app, helping users organize items, track purchases, and streamline their shopping experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
